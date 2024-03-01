@@ -2,6 +2,10 @@
 
 Mario Run is a simple web-based game inspired by the classic Mario games. Players control Mario's movements, dodge obstacles, and collect points in this browser-based game.
 
+## Screenshot Preview 📸
+
+![image](https://github.com/ind-abhishek/mario/assets/101976775/6a4452f4-5a28-461a-99f2-68fd55e669d6)
+
 ## Features 🎮
 
 - **Interactive Gameplay:** Control Mario's movements using keyboard inputs, including jumping and moving left or right.
@@ -10,9 +14,6 @@ Mario Run is a simple web-based game inspired by the classic Mario games. Player
 - **Audio Effects:** Enjoy immersive audio effects, including background music and jump sounds.
 - **Responsive Design:** The game is designed to be compatible with various screen sizes.
 
-## Screenshot Preview 📸
-
-![image](https://github.com/ind-abhishek/mario/assets/101976775/6a4452f4-5a28-461a-99f2-68fd55e669d6)
 
 ## Technologies Used 🛠️
 
